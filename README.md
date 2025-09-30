@@ -1,6 +1,6 @@
-## Hey, I am Vedant 👋
 
-# 💫 About Me:
+
+# Hey, I am Vedant 👋
 🔭 I’m currently working on File Sharing Web App.<br>👯 I’m looking to collaborate on JavaScript , HTML5 and Css.<br>🌱 I’m currently learning Advance JavaScript , HTML5 and Css.<br>
 
 
